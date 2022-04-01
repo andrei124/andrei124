@@ -1,14 +1,21 @@
 ### Hi there, welcome to my GitHub profile 👋
 
+<br> 
+
 🌱 Full-Stack Software Engineer - main areas: Web-App development, Server-side development
 
 👯 Contributions to any of my repositories are welcome! Feel free to raise issues and open PRs :) 
 
-⚡ New personal project coming soon!
-
 📫 Reach me at: andrei.roman18@imperial.ac.uk
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei124&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei124&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) <br>
+(Credits for GitHub stats: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats))
+
+<br> <br> 
+
+⚡ New personal project coming soon!
 
 
 <!--
