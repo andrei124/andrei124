@@ -8,6 +8,8 @@
 
 📫 Reach me at: andrei.roman18@imperial.ac.uk
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei124&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **andrei124/andrei124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
