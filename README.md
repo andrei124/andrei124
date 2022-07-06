@@ -2,7 +2,7 @@
 
 <br> 
 
-🌱 Full-Stack Software Engineer - main areas: Web-App development, Server-side development
+🌱 Full-Stack Software Engineer - main areas: React.js, TypeScript, Java, C# (but flexible in picking up other languages and frameworks)
 
 👯 Contributions to any of my repositories are welcome! Feel free to raise issues and open PRs :) 
 
